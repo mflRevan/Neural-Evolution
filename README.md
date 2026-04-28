@@ -79,7 +79,8 @@ The main scene used for evaluating and testing the autonomous driving networks i
 
 ![Train Track][maintrack]
 
-#### Results - Preview (Unseen track, model generalized through *pure evolution* to steer, drive AND complete a map at full speed and boost, through natural competition)
+#### Results - Preview 
+> Unseen track, model generalized through *pure evolution* to steer, drive AND complete a map at full speed and boost - just natural competition
 
 ![Preview][preview]
 
